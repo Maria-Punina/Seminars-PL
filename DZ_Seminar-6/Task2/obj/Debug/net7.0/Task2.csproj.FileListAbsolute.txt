@@ -1,0 +1,14 @@
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\Seminars-PL\Seminars-PL\DZ_Seminar-6\Task2\obj\Debug\net7.0\ref\Task2.dll
