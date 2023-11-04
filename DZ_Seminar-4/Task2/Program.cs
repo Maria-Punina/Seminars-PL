@@ -3,17 +3,11 @@
 // 82 -> 10
 // 9012 -> 12
 
-
-// 1. Создадим случайное число
-// 2. Разложим наше число на десятки сотни тысячи .... 
-// 3. Сложим все элементы 
-// 4. Выводим результат в терминал
-
 int Promt(string message)         
 {
     Console.Write(message);
     string readInput = Console.ReadLine();
-    int result = int.Parse(readInput); //int.Parse аналог Convert.ToInt32
+    int result = int.Parse(readInput); 
     return result;
 }
 
